@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.db
+*.pyc
+Instructions*.pdf
+read_pdf.py
+myenv/
